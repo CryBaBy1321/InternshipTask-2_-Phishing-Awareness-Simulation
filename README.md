@@ -8,3 +8,5 @@ signin image
 <img width="1919" height="1029" alt="Image" src="https://github.com/user-attachments/assets/45a8bab6-3576-4c74-852f-f9b9453c7960" />
 
 new group create 
+<img width="1919" height="799" alt="Image" src="https://github.com/user-attachments/assets/0ec6f9ac-814d-4636-bdb1-c50d33d4d0e4" />
+create phishing email templete 
