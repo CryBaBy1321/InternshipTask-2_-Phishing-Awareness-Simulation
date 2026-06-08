@@ -17,5 +17,6 @@ create new landing page
 <img width="1076" height="972" alt="Image" src="https://github.com/user-attachments/assets/d0e5354f-c373-4b7d-9ca7-5a8e5e51a1f6" />
 
 create new campiagn 
-<img width="977" height="958" alt="Image" src="https://github.com/user-attachments/assets/3a8332f9-5915-4684-ab56-88a34f321565" />
- 
+<img width="1396" height="963" alt="Image" src="https://github.com/user-attachments/assets/920208e5-e793-41ae-a25e-af25796e86cc" />
+
+ create new profile 
