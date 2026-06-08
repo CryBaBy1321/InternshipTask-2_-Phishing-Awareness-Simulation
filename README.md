@@ -13,7 +13,11 @@ create new group
 create phishing template 
 <img width="1919" height="799" alt="Image" src="https://github.com/user-attachments/assets/0ec6f9ac-814d-4636-bdb1-c50d33d4d0e4" />
 
+
 create new landing page 
 <img width="1076" height="972" alt="Image" src="https://github.com/user-attachments/assets/d0e5354f-c373-4b7d-9ca7-5a8e5e51a1f6" />
+
+create new campiagn 
+<img width="977" height="958" alt="Image" src="https://github.com/user-attachments/assets/3a8332f9-5915-4684-ab56-88a34f321565" />
 
  
