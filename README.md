@@ -20,3 +20,4 @@ create new campiagn
 <img width="1396" height="963" alt="Image" src="https://github.com/user-attachments/assets/920208e5-e793-41ae-a25e-af25796e86cc" />
 
  create new profile 
+<img width="1318" height="972" alt="Image" src="https://github.com/user-attachments/assets/9e99dadf-1cac-4395-9a81-5f14b486b41d" />
